@@ -125,9 +125,9 @@ ${\textsf{\color{#ff0000}C9nverse 2 kn9w m9re!}}$ <br>
 
 <div align="center">
   <details>
-    <summary> <td>$${\color{#9ACD32}\verb|O.M.G?!?|}$$</td> </summary>
+    <summary> <td>$${\color{#9ACD32}\verb|SPECIAL THANKS|}$$</td> </summary>
     <p align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=350&color=A9A9A9&center=true&vCenter=true&width=347&lines=I+LIKE+THE+WAY+THAT+Y9U+TALK%2C;CRASH+!;BANG+!!;Y9U'RE+S9+6EAUTIFUL." alt="Typing SVG" /></a></p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=350&color=FF0000&center=true&vCenter=true&width=347&lines=I+LIKE+THE+WAY+THAT+YOU+WALK%2C;BOOM+!;BANG+!!;YOU'RE+SO+BEAUTIFUL." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=A9A9A9&center=true&vCenter=true&repeat=false&width=347&lines=WAVES+TO+OOMFS" alt="Typing SVG" /></a></p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&repeat=false&width=347&lines=HAI+GUYS+%3A%5D" alt="Typing SVG" /></a>
   </p>
   </details>
 </div>ㅤㅤㅤㅤㅤㅤㅤ
