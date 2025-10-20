@@ -77,6 +77,14 @@ ${\textsf{\color{#ff0000}We d9n't t9lerate racism 9f any kind.}}$ <br>
 
 ${\textsf{\color{#ff0000}We prefer hanging ar9und cl9se friends.}}$ <br>
 </p>
+<div align="center">
+  <details>
+    <summary> <td>$${\color{#9ACD32}\verb|SPECIAL THANKS|}$$</td> </summary>
+    <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=A9A9A9&center=true&vCenter=true&repeat=false&width=347&lines=WAVES+TO+OOMFS" alt="Typing SVG" /></a></p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&repeat=false&width=347&lines=HAI+GUYS+%3A%5D" alt="Typing SVG" /></a>
+  </p>
+  </details>
+</div>ㅤㅤㅤㅤㅤㅤㅤ
 
 ${\textsf{\color{#ff0000}We have a hell l9t of h966ies..}}$ <br>
 </p>
@@ -122,14 +130,6 @@ ${\textsf{\color{#ff0000}C9nverse 2 kn9w m9re!}}$ <br>
 </p>
 </div>
 
-<div align="center">
-  <details>
-    <summary> <td>$${\color{#9ACD32}\verb|SPECIAL THANKS|}$$</td> </summary>
-    <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=A9A9A9&center=true&vCenter=true&repeat=false&width=347&lines=WAVES+TO+OOMFS" alt="Typing SVG" /></a></p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&repeat=false&width=347&lines=HAI+GUYS+%3A%5D" alt="Typing SVG" /></a>
-  </p>
-  </details>
-</div>ㅤㅤㅤㅤㅤㅤㅤ
 <div align="right">
 <sub> 
   
