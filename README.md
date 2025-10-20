@@ -126,7 +126,7 @@ ${\textsf{\color{#ff0000}C9nverse 2 kn9w m9re!}}$ <br>
 <div align="center">
   <details>
     <summary> <td>$${\color{#9ACD32}\verb|O.M.G?!?|}$$</td> </summary>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=350&color=A9A9A9&center=true&vCenter=true&lines=I+LIKE+THE+WAY+THAT+Y9U+TALK%2C;CRASH+!;BANG+!!;Y9U'RE+S9+6EAUTIFUL." alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=350&color=FF0000&center=true&vCenter=true&lines=I+LIKE+THE+WAY+THAT+YOU+WALK%2C;BOOM+!;BANG+!!;YOU'RE+SO+BEAUTIFUL." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=350&color=A9A9A9&center=true&vCenter=true&width=347&lines=I+LIKE+THE+WAY+THAT+Y9U+TALK%2C;CRASH+!;BANG+!!;Y9U'RE+S9+6EAUTIFUL." alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=350&color=FF0000&center=true&vCenter=true&width=347&lines=I+LIKE+THE+WAY+THAT+YOU+WALK%2C;BOOM+!;BANG+!!;YOU'RE+SO+BEAUTIFUL." alt="Typing SVG" /></a>
   </details>
 </div>
 ㅤㅤㅤㅤㅤ
