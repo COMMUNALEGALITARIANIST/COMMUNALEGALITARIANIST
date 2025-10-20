@@ -142,8 +142,6 @@ ${\textsf{\color{#ff0000}This took me so long...}}$
 <img src="https://github.com/user-attachments/assets/4592e6a4-0c77-4df1-bedc-321306b6c1c4" align="right" width="%70"></a>
 </div>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <div align="center">
   
   # ${\textsf{\color{#FF0000}DNI}}$
