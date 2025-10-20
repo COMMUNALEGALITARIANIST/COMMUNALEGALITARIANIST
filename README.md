@@ -118,11 +118,8 @@ ${\textsf{\color{#ff0000}A whole lot more...}}$ <br>
 </details>
 </div>
 <div align="center">
-  
-${\textsf{\color{#ff0000}F9r anything 9ther than that,}}$ <br>
-</p>
 
-${\textsf{\color{#ff0000}C9nverse 2 kn9w!}}$ <br>
+${\textsf{\color{#ff0000}C9nverse 2 kn9w m9re!}}$ <br>
 </p>
 </div>
 
@@ -132,14 +129,17 @@ ${\textsf{\color{#ff0000}C9nverse 2 kn9w!}}$ <br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=350&color=A9A9A9&center=true&vCenter=true&width=430&lines=I+LIKE+THE+WAY+THAT+Y9U+TALK%2C;CRASH+!;BANG+!!;Y9U'RE+S9+6EAUTIFUL." alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=350&color=FF0000&center=true&vCenter=true&width=430&lines=I+LIKE+THE+WAY+THAT+YOU+WALK%2C;BOOM+!;BANG+!!;YOU'RE+SO+BEAUTIFUL." alt="Typing SVG" /></a>
   </details>
 </div>
-
+ㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <div align="right">
 <sub> 
   
 ${\textsf{\color{#ff0000}This took me so long...}}$
 </sub>
 </div>
-
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <div align="center">
 <img src="https://github.com/user-attachments/assets/4592e6a4-0c77-4df1-bedc-321306b6c1c4" align="right" width="%50"></a>
 </div>
