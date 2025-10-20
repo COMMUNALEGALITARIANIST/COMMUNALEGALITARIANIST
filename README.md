@@ -10,7 +10,6 @@
 ${\textsf{\color{#ff0000}The artworks belong to their rightful owners.}}$
 </sub>
 </div>
-<div align="center">
 <img src="https://github.com/user-attachments/assets/5fda2107-c0fc-4830-a4c9-521c4caf7ca5" align="right" width="%50"></a>
 </div>
 
@@ -62,9 +61,7 @@ ${\textsf{\color{#a9a9a9}YOU CAN C+H AND WHISP ANYTIME.}}$ <br>
 If you wanna make a read.me like this, here is a kickstarter.
 </sub>
 </div>
-      ㅤㅤㅤㅤㅤ
-      ㅤㅤㅤㅤㅤ
-      ㅤㅤㅤㅤㅤ
+
 <div align="center">
 <img src="https://github.com/user-attachments/assets/d21e5799-b4ff-48ee-bc81-7de25d4ab192" align="left" width="%50"></a>
 </div>
@@ -141,7 +138,6 @@ ${\textsf{\color{#ff0000}This took me so long...}}$
 <div align="center">
 <img src="https://github.com/user-attachments/assets/4592e6a4-0c77-4df1-bedc-321306b6c1c4" align="right" width="%50"></a>
 </div>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <div align="center">
   
