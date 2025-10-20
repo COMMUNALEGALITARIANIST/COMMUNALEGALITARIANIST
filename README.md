@@ -66,7 +66,7 @@ If you wanna make a read.me like this, here is a kickstarter.
       ㅤㅤㅤㅤㅤ
       ㅤㅤㅤㅤㅤ
 <div align="center">
-<img src="https://github.com/user-attachments/assets/d21e5799-b4ff-48ee-bc81-7de25d4ab192" align="left" width="%30"></a>
+<img src="https://github.com/user-attachments/assets/d21e5799-b4ff-48ee-bc81-7de25d4ab192" align="left" width="%25"></a>
 </div>
 
 <div align="center">
