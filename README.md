@@ -66,7 +66,7 @@ If you wanna make a read.me like this, here is a kickstarter.
       ㅤㅤㅤㅤㅤ
       ㅤㅤㅤㅤㅤ
 <div align="center">
-<img src="https://github.com/user-attachments/assets/d21e5799-b4ff-48ee-bc81-7de25d4ab192" align="left" width="%80"></a>
+<img src="https://github.com/user-attachments/assets/d21e5799-b4ff-48ee-bc81-7de25d4ab192" align="left" width="%50"></a>
 </div>
 
 <div align="center">
@@ -130,25 +130,19 @@ ${\textsf{\color{#ff0000}C9nverse 2 kn9w m9re!}}$ <br>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=350&color=A9A9A9&center=true&vCenter=true&width=347&lines=I+LIKE+THE+WAY+THAT+Y9U+TALK%2C;CRASH+!;BANG+!!;Y9U'RE+S9+6EAUTIFUL." alt="Typing SVG" /></a></p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=350&color=FF0000&center=true&vCenter=true&width=347&lines=I+LIKE+THE+WAY+THAT+YOU+WALK%2C;BOOM+!;BANG+!!;YOU'RE+SO+BEAUTIFUL." alt="Typing SVG" /></a>
   </p>
   </details>
-</div>
-ㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+</div>ㅤㅤㅤㅤㅤㅤㅤ
 <div align="right">
 <sub> 
   
 ${\textsf{\color{#ff0000}This took me so long...}}$
 </sub>
 </div>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+
 <div align="center">
 <img src="https://github.com/user-attachments/assets/4592e6a4-0c77-4df1-bedc-321306b6c1c4" align="right" width="%50"></a>
 </div>
-
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <div align="center">
   
   # ${\textsf{\color{#FF0000}DNI}}$
