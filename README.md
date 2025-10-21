@@ -12,7 +12,6 @@ ${\textsf{\color{#ff0000}The artworks belong to their rightful owners.}}$
 </div>
 <img src="https://github.com/user-attachments/assets/5fda2107-c0fc-4830-a4c9-521c4caf7ca5" align="right" width="%50" height="%70"></a>
 </div>
-
 <div align="center">
   
   # ${\textsf{\color{#FF0000}6EF9RE Y9U INTERACT}}$
@@ -67,7 +66,6 @@ If you wanna make a read.me like this, here is a kickstarter.
 <div align="center">
 <img src="https://github.com/user-attachments/assets/d21e5799-b4ff-48ee-bc81-7de25d4ab192" align="left" width="%50" height="%80"></a>
 </div>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <div align="center">
   
