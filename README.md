@@ -68,7 +68,8 @@ If you wanna make a read.me like this, here is a kickstarter.
 <div align="center">
 <img src="https://github.com/user-attachments/assets/d21e5799-b4ff-48ee-bc81-7de25d4ab192" align="left" width="%50" height="%80"></a>
 </div>
-
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <div align="center">
   
   # ${\textsf{\color{#A9A9A9}A69UT}}$
@@ -104,32 +105,81 @@ ${\textsf{\color{#ff0000}Click 6el9w f9r extended.}}$
   <details>
     <summary> <td>$${\color{#9ACD32}\verb|MEDIA|}$$</td> </summary>
 <p align="right">
-${\textsf{\color{#a9a9a9}HOMESTUCK}}$ <br>
-${\textsf{\color{#a9a9a9}SCOTT PILGRIM}}$ <br>
-${\textsf{\color{#a9a9a9}RAMSHACKLE}}$ <br>
-${\textsf{\color{#a9a9a9}MURDER DRONES, TADC}}$ <br>
-${\textsf{\color{#a9a9a9}METAL GEAR}}$ <br>
-${\textsf{\color{#a9a9a9}TOUHOU}}$ <br>
-${\textsf{\color{#a9a9a9}8:11, DUBUK}}$ <br>
-${\textsf{\color{#a9a9a9}STUDIO INVESTIGRAVE}}$ <br>
-${\textsf{\color{#a9a9a9}BLOODMONEY}}$ <br>
-${\textsf{\color{#a9a9a9}ELTINGVILLE CLUB}}$ <br>
-${\textsf{\color{#a9a9a9}DOOM, HALO-MCC, DUKE NUKEM}}$ <br>
-${\textsf{\color{#a9a9a9}FUNGER}}$ <br>
-${\textsf{\color{#a9a9a9}AMERICAN PSYCHO}}$ <br>
-${\textsf{\color{#a9a9a9}PRETTY BLOOD, HTF}}$ <br>
-${\textsf{\color{#a9a9a9}SILENT HILL 1-3, RE 7-8, OUTLAST}}$ <br>
-${\textsf{\color{#a9a9a9}POSTAL}}$ <br>
-${\textsf{\color{#a9a9a9}F:TUT}}$ <br>
-${\textsf{\color{#a9a9a9}E:TM}}$ <br>
-${\textsf{\color{#a9a9a9}FNAF, DSAF}}$ <br>
-${\textsf{\color{#a9a9a9}MADCOM}}$ <br>
-${\textsf{\color{#a9a9a9}OMORI}}$ <br>
-${\textsf{\color{#a9a9a9}PORTAL}}$ <br>
-${\textsf{\color{#a9a9a9}RANFREN}}$ <br>
-${\textsf{\color{#a9a9a9}PTP}}$ <br>
-${\textsf{\color{#ff0000}A whole lot more...}}$
+  
+${\textsf{\color{#a9a9a9}HOMESTUCK}}$ 
   <br>
+  
+${\textsf{\color{#a9a9a9}SCOTT PILGRIM}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}RAMSHACKLE}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}MURDER DRONES, TADC}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}METAL GEAR}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}TOUHOU}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}8:11, DUBUK}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}STUDIO INVESTIGRAVE}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}BLOODMONEY}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}ELTINGVILLE CLUB}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}DOOM, HALO-MCC, DUKE NUKEM}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}FUNGER}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}AMERICAN PSYCHO}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}PRETTY BLOOD, HTF}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}SILENT HILL 1-3, RE 7-8, OUTLAST}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}POSTAL}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}F:TUT}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}E:TM}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}FNAF, DSAF}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}MADCOM}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}OMORI}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}PORTAL}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}RANFREN}}$ 
+  <br>
+  
+${\textsf{\color{#a9a9a9}PTP}}$ 
+  <br>
+  
+${\textsf{\color{#ff0000}A whole lot more...}}$ <br>
+  </br>
   </p>
 </details>
 </div>
