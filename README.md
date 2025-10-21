@@ -104,8 +104,8 @@ ${\textsf{\color{#ff0000}Click 6el9w f9r extended.}}$
 <div align="center">
   <details>
     <summary> <td>$${\color{#9ACD32}\verb|MEDIA|}$$</td> </summary>
-<p align="right">
-  
+    <p align="right">
+      
 ${\textsf{\color{#a9a9a9}HOMESTUCK}}$ 
   <br>
   
@@ -178,7 +178,7 @@ ${\textsf{\color{#a9a9a9}RANFREN}}$
 ${\textsf{\color{#a9a9a9}PTP}}$ 
   <br>
   
-${\textsf{\color{#ff0000}A whole lot more...}}$ <br>
+${\textsf{\color{#ff0000}A whole lot more...}}$ 
   </br>
   </p>
 </details>
