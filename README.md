@@ -16,7 +16,10 @@ ${\textsf{\color{#ff0000}The artworks belong to their rightful owners.}}$
 <div align="center">
   
   # ${\textsf{\color{#FF0000}6EF9RE Y9U INTERACT}}$
-  <p align="center">
+  </div>
+  
+  <div align="center">
+    
 ${\textsf{\color{#a9a9a9}S0LAR OR ARCHIVE}}$ 
 <br>
     
@@ -46,7 +49,6 @@ ${\textsf{\color{#a9a9a9}WE LOVE MAKING FRIENDS!}}$
 
 ${\textsf{\color{#a9a9a9}YOU CAN C+H AND WHISP ANYTIME.}}$
 </br>
-</p>
 </div>
 
 <div align="center">
