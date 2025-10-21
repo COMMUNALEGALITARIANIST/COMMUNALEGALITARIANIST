@@ -22,7 +22,7 @@ ${\textsf{\color{#ff0000}The artworks belong to their rightful owners.}}$
     
 ${\textsf{\color{#a9a9a9}S0LAR OR ARCHIVE}}$ 
 <br>
-    
+
 ${\textsf{\color{#a9a9a9}NICKNAMES WORK AS WELL!}}$
 <br>
 
@@ -31,7 +31,7 @@ ${\textsf{\color{#a9a9a9}THIS IS OUR HOMESTUCK ALT FOR PONY TOWN.}}$
 
 ${\textsf{\color{#a9a9a9}OSDD SYSTEM, EXPECT PROBLEMATIC ALTERS.}}$
 <br>
-    
+
 ${\textsf{\color{#a9a9a9}AUDHD AND BIPOLAR DISORDER.}}$
 <br>
 
@@ -106,80 +106,31 @@ ${\textsf{\color{#ff0000}Click 6el9w f9r extended.}}$
     <summary> <td>$${\color{#9ACD32}\verb|MEDIA|}$$</td> </summary>
     <p align="right">
       
-${\textsf{\color{#a9a9a9}HOMESTUCK}}$ 
-  <br>
-  
-${\textsf{\color{#a9a9a9}SCOTT PILGRIM}}$ 
-  <br>
-  
-${\textsf{\color{#a9a9a9}RAMSHACKLE}}$ 
-  <br>
-  
-${\textsf{\color{#a9a9a9}MURDER DRONES, TADC}}$ 
-  <br>
-  
-${\textsf{\color{#a9a9a9}METAL GEAR}}$ 
-  <br>
-  
-${\textsf{\color{#a9a9a9}TOUHOU}}$ 
-  <br>
-  
-${\textsf{\color{#a9a9a9}8:11, DUBUK}}$ 
-  <br>
-  
-${\textsf{\color{#a9a9a9}STUDIO INVESTIGRAVE}}$ 
-  <br>
-  
-${\textsf{\color{#a9a9a9}BLOODMONEY}}$ 
-  <br>
-  
-${\textsf{\color{#a9a9a9}ELTINGVILLE CLUB}}$ 
-  <br>
-  
-${\textsf{\color{#a9a9a9}DOOM, HALO-MCC, DUKE NUKEM}}$ 
-  <br>
-  
+${\textsf{\color{#a9a9a9}HOMESTUCK}}$
+${\textsf{\color{#a9a9a9}SCOTT PILGRIM}}$
+${\textsf{\color{#a9a9a9}RAMSHACKLE}}$
+${\textsf{\color{#a9a9a9}MURDER DRONES, TADC}}$
+${\textsf{\color{#a9a9a9}METAL GEAR}}$
+${\textsf{\color{#a9a9a9}TOUHOU}}$
+${\textsf{\color{#a9a9a9}8:11, DUBUK}}$
+${\textsf{\color{#a9a9a9}STUDIO INVESTIGRAVE}}$
+${\textsf{\color{#a9a9a9}BLOODMONEY}}$
+${\textsf{\color{#a9a9a9}ELTINGVILLE CLUB}}$
 ${\textsf{\color{#a9a9a9}FUNGER}}$ 
-  <br>
-  
 ${\textsf{\color{#a9a9a9}AMERICAN PSYCHO}}$ 
-  <br>
-  
-${\textsf{\color{#a9a9a9}PRETTY BLOOD, HTF}}$ 
-  <br>
-  
+${\textsf{\color{#a9a9a9}PRETTY BLOOD, HTF}}$
 ${\textsf{\color{#a9a9a9}SILENT HILL 1-3, RE 7-8, OUTLAST}}$ 
-  <br>
-  
-${\textsf{\color{#a9a9a9}POSTAL}}$ 
-  <br>
-  
-${\textsf{\color{#a9a9a9}F:TUT}}$ 
-  <br>
-  
-${\textsf{\color{#a9a9a9}E:TM}}$ 
-  <br>
-  
+${\textsf{\color{#a9a9a9}POSTAL}}$
+${\textsf{\color{#a9a9a9}F:TUT}}$
+${\textsf{\color{#a9a9a9}E:TM}}$
 ${\textsf{\color{#a9a9a9}FNAF, DSAF}}$ 
-  <br>
-  
 ${\textsf{\color{#a9a9a9}MADCOM}}$ 
-  <br>
-  
 ${\textsf{\color{#a9a9a9}OMORI}}$ 
-  <br>
-  
 ${\textsf{\color{#a9a9a9}PORTAL}}$ 
-  <br>
-  
 ${\textsf{\color{#a9a9a9}RANFREN}}$ 
-  <br>
-  
 ${\textsf{\color{#a9a9a9}PTP}}$ 
-  <br>
-  
-${\textsf{\color{#ff0000}A whole lot more...}}$ 
-  </br>
+<br>
+${\textsf{\color{#ff0000}A whole lot more...}}$ </br>
   </p>
 </details>
 </div>
