@@ -186,7 +186,7 @@ ${\textsf{\color{#ff0000}SOME OF THESE ARE DNIU WE DO.}}$
 <details>
   <summary> <td>$${\color{#9ACD32}\verb|BOO.|}$$</td></summary>
     <p align="center">
-<a href=https://github.com/THE-BASILICA>
+<a href=https://github.com/1919-1923>
 <img width="105" height="240" src="https://github.com/user-attachments/assets/c962d1e5-d96b-468d-9049-16dd5a41d21b"></a>
  <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=A9A9A9&center=true&vCenter=true&repeat=false&width=470&lines=CLICK+THE+K6RK9T+T9+G9+T9+MAIN+GITHU6." alt="Typing SVG" /></a>
