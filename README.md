@@ -177,7 +177,7 @@ ${\textsf{\color{#a9a9a9}PROSHIPPERS, ETC.}}$
 ${\textsf{\color{#a9a9a9}INAPPROPRIATE JOKES/COPY PASTES, ETC.}}$
 <br>
 
-${\textsf{\color{#ff0000}MELODRAMATIC/SENSITIVE PEOPLE.}}$ 
+${\textsf{\color{#a9a9a9}MELODRAMATIC/SENSITIVE PEOPLE.}}$ 
 <br>
 
 ${\textsf{\color{#ff0000}SOME OF THESE ARE DNIU WE DO.}}$ 
