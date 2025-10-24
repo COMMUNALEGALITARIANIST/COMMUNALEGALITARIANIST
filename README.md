@@ -174,10 +174,13 @@ ${\textsf{\color{#a9a9a9}ENDOS, TULPAS}}$
 ${\textsf{\color{#a9a9a9}PROSHIPPERS, ETC.}}$
 <br>
 
-${\textsf{\color{#a9a9a9}JUST DONT BE WEIRD.}}$
+${\textsf{\color{#a9a9a9}INAPPROPRIATE JOKES/COPY PASTES, ETC.}}$
 <br>
 
-${\textsf{\color{#ff0000}SOME OF THESE EXCLUDE FRIENDS.}}$ 
+${\textsf{\color{#ff0000}MELODRAMATIC/SENSITIVE PEOPLE.}}$ 
+<br>
+
+${\textsf{\color{#ff0000}SOME OF THESE ARE DNIU WE DO.}}$ 
 </br></div>
 <div align="center">
 <details>
